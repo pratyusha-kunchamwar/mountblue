@@ -1,0 +1,12 @@
+Day 1 (August 22)
+
+I joined MountBlue on August 22, starting a new chapter with many doubts and thoughts. The day went well, and I received official emails confirming my employment with the organization. I also took the initiative to download Linux on my own, marking a productive beginning.
+Day 2
+
+We had a class with Gangadhar Sir, who explained what we need to learn in the command-line interface (CLI). After the session, I started exploring resources and began learning more about the CLI. Initially, I used to think manual tasks were sufficient, but I quickly realized how much faster and efficient things could be with the CLI.
+Day 3
+
+I delved deeper into the CLI, learning more detailed concepts. I also completed the assigned drills, which helped solidify my understanding.
+Day 4
+
+After a Sunday break, I forgot to update Sir about my progress today. I'm currently learning about Git and GitLab to better understand how to work in a team.
